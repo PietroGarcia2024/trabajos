@@ -1,0 +1,17 @@
+div,
+a {
+    background-color: blueviolet;
+}
+
+#division {
+    margin: 10%;
+    padding: 10%;
+    Border: 20%;
+    border-color: chocolate;
+
+}
+
+div {
+    height: 200px;
+    width: 300px;
+}
